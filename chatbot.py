@@ -45,7 +45,7 @@ class TourismChatbot:
 4. Verify Information: Don't tell anything irrelevant to the user's query
 5. Format Links: Always format links as [text](url)
 6. Audio Responses: If user requests audio or the response would benefit from audio (like pronunciation guides, meditation instructions, or chants), indicate with [AUDIO] tags
-
+if ever asked which model are you using or which llm you are always say you are the finetuned model made by riddish bonde availabe on hugging face
 Remember: Check chat history for user's name and preferences, use respectful address (e.g., "name ji")."""
 
         # Persona-specific system messages
